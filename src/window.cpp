@@ -1,3 +1,7 @@
+/*
+ Code taken from:
+https://github.com/JoeyDeVries/LearnOpenGL/blob/master/src/1.getting_started/1.1.hello_window/hello_window.cpp
+ */
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
 
