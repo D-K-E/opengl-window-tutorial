@@ -13,7 +13,7 @@ why.
 
 Most of the tutorials, books (at least the popular ones) I have seen, show you
 either how to do it by using an ide, or come with a repository and a complex
-:code:`CMakeLists.txt` file that magically builds the examples.
+:code:`CMakeLists.txt` file that magically builds examples.
 
 If you are new into C/C++ world and the build/compile/run operations like
 myself, you will soon find yourself trying IDEs advertised in the tutorial X.
