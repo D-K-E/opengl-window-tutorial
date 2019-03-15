@@ -83,15 +83,14 @@ what they do in the comments:
 
     set( GLFW_SHARED_LIB
         "${PROJECT_SOURCE_DIR}/libs/glfw/src/libglfw.so")
-        # this establishes the link between the dynamic library of glfw
-        # and your project
+        # this sets a variable to the path of the dynamic library of glfw
         # Meaning that the functions of GLFW would be available at runtime
         # not at compile time.
         # If you have undefined reference errors try compiling 
         # GLFW with static library option.
         # Notice that libs/ contain a sub directory glfw/
         # I simply copy pasted the src/ directory that resulted from
-        # the building process of glfw under project_root/lib/glfw/
+        # the building process of glfw to project_root/lib/glfw/
 
     set ( ALL_LIBS 
         ${OpenGL}
