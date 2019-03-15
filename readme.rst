@@ -37,7 +37,7 @@ Here is the logic behind the layout:
 
   - :code:`/bin`: contains the final executable
 
-  - :code:`/libs`: contains dynamic and static libs that will be link to your
+  - :code:`/libs`: contains dynamic and static libs that will be linked to your
     project
 
   - :code:`/include`: contains the header files, like :code:`*.h , *.hpp`
