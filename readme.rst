@@ -18,8 +18,14 @@ either how to do it by using an ide, or come with a repository and a complex
 If you are new into C/C++ world and the build/compile/run operations like
 myself, you will soon find yourself trying IDEs advertised in the tutorial X.
 
-Did that, didn't work out well in the end. So I prepared this tutorial for
-you.
+I did that, and it didn't work out well in the end. 
+I realized that I was getting more and more hesitant about build/compile process,
+which made me question whether I wanted to really pursue learning OpenGL, 
+whether I should look for alternatives, etc.
+
+But in the end, I noticed that at its base, it is a very simple process.
+
+So I prepared this tutorial for you.
 
 Just follow the steps and you shall have your first window. Make sure to
 actually read every step instead of copy pasting mindlessly. I lost a lot of
