@@ -75,7 +75,7 @@ what they do in the comments:
         "./include/"
         )
         # this includes the header files in your directory to your projects
-        # meaning that this helps you to getaway with statements like
+        # meaning that this helps you to write with statements like
         # #include <GLFW/glfw3.h>
         # #include <glad/glad.h>
         # assuming that ./include directory also contains 
